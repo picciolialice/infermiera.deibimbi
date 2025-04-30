@@ -14,8 +14,8 @@ body {
 
 /* Header */
 header {
-    background-color: #FBE6B;
-    color: white;
+    background-color: #FBE6B7;
+    color: red;
     padding: 10px;
     text-align: center;
 }
@@ -31,7 +31,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: red;
     text-decoration: none;
 }
 
@@ -44,8 +44,8 @@ header nav ul li a {
 
 /* Footer */
 footer {
-    background-color: #FBE6B;
-    color: white;
+    background-color: #FBE6B7;
+    color: red;
     padding: 10px;
     text-align: center;
 }
