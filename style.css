@@ -8,7 +8,7 @@
 /* Corpo della pagina */
 body {
     font-family: Spartan League, Lato;
-    color: #67452d;
+    color: #352317;
 }
 
 /* Header */
@@ -29,7 +29,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: red;
+    color: 352317;
     text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ header nav ul li a {
 /* Footer */
 footer {
     background-color: #fff8f2;
-    color: red;
+    color: 352317;
     padding: 10px;
     text-align: center;
 }
