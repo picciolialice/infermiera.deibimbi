@@ -29,7 +29,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: 352317;
+    color: #352317;
     text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ header nav ul li a {
 /* Footer */
 footer {
     background-color: #fff8f2;
-    color: 352317;
+    color: #352317;
     padding: 10px;
     text-align: center;
 }
