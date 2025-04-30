@@ -8,13 +8,12 @@
 /* Corpo della pagina */
 body {
     font-family: Spartan League, Lato;
-    background-color: #67452D;
-    color: #67452D;
+    color: #67452d;
 }
 
 /* Header */
 header {
-    background-color: #FBE6B7;
+    background-color: #fbE6b7;
     padding: 10px;
     text-align: center;
 }
@@ -36,14 +35,14 @@ header nav ul li a {
 
 /* Sezione Home */
 #home {
-    background-color: #FFF8F2;
+    background-color: #fff8f2;
     padding: 20px;
     text-align: center;
 }
 
 /* Footer */
 footer {
-    background-color: #FBE6B7;
+    background-color: #fbE6b7;
     color: red;
     padding: 10px;
     text-align: center;
