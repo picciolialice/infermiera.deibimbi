@@ -13,7 +13,7 @@ body {
 
 /* Header */
 header {
-    background-color: #fff8f2;
+    background-color: #352317;
     padding: 10px;
     text-align: center;
 }
@@ -35,18 +35,15 @@ header nav ul li a {
 
 /* Sezione Home */
 #home {
-    background-color: #fff8f2;
+    background-color: #352317;
     padding: 20px;
     text-align: center;
 }
 
 /* Footer */
 footer {
-     background-color: #fff8f2;
+     background-color: #352317;
     padding: 20px;
     text-align: center;
-    background-color: #fff8f2;
-    color: #352317;
-    padding: 10px;
-    text-align: center;
+    
 }
